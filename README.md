@@ -19,3 +19,10 @@ You will need at most Java 1.7
 ## Requirements (maybe its necesary)
 
 This code was made in Eclipse with its integrated Applet Viewer
+
+## Exercise Statements
+
+### Exercise 01
+
+Complete the statement exercises after the revision ...
+
