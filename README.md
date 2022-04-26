@@ -16,3 +16,6 @@ You will need at most Java 1.7
 | Java 8        | Not Running   |
 | Java 11+      | Not Running   |
 
+## Requirements (maybe its necesary)
+
+This code was made in Eclipse with its integrated Applet Viewer
