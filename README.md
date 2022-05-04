@@ -2,7 +2,7 @@
 [![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB)](https://opensource.fb.com/support-ukraine) 
 
 This code present three codes for test threads and applets *actually applet is deprecated*. 
-However, this is an test for execute this old code.
+However, this is an test for execute this old code. Luck :D
 
 ## Requirements
 
